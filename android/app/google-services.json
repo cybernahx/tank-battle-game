@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "108185153930",
+    "project_id": "bidding-abe54",
+    "storage_bucket": "bidding-abe54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108185153930:android:dbd33429688a5dda6a5873",
+        "android_client_info": {
+          "package_name": "com.example.antique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMuX9oT7UI72gf7Fo3uFrWa24_iSa7Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108185153930:android:cdf320e36eba6e4b6a5873",
+        "android_client_info": {
+          "package_name": "com.tank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMuX9oT7UI72gf7Fo3uFrWa24_iSa7Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108185153930:android:dbd33429688a5dda6a5873",
+        "android_client_info": {
+          "package_name": "com.antigravity.tankgame.tank_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMuX9oT7UI72gf7Fo3uFrWa24_iSa7Ug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
